@@ -41,7 +41,7 @@ class Header
 	maxPlayers = 30;
 };
 
-//#include "CfgRemoteExec.hpp"
+#include "Cfg_Prp_Remote.hpp"
 #include "Dialogs\INCLUDE_GUI.cpp"
 
 
