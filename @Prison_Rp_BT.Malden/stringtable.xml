@@ -2,12 +2,12 @@
 <Project name="Prison Rp">
     <Package name="Prison_Rp">
         <Key ID="STR_DA3F_WelcomeChat">
-            <Original>Welcome to the mission "Prison Rp" directed by: Aroun The BriCodeur and Mikael Libertis for the Arma 3 community</Original>
-            <French>Bienvenue sur la mission  "Prison Rp" réalisé par : Aroun Le BriCodeur et Mikael Libertis pour la communauté Arma 3</French>
+            <Original>Welcome to the mission "Prison Rp" directed by: Aroun The BriCodeur , Dan Anderson and Mikael Libertis for the Arma 3 community</Original>
+            <French>Bienvenue sur la mission  "Prison Rp" réalisé par : Aroun Le BriCodeur , Dan Anderson et Mikael Libertis pour la communauté Arma 3</French>
         </Key>
         <Key ID="STR_DA3F_WelcomeTitle">
-            <Original>Welcome to the mission \n"Prison Rp" \ndirected by:\n Aroun The BriCodeur \nand\n Mikael Libertis\n for the Arma 3 community</Original>
-            <French>Bienvenue sur la mission \n "Prison Rp" \nréalisé par :\n Aroun Le BriCodeur \net\n Mikael Libertis\n pour la communauté Arma 3</French>
+            <Original>Welcome to the mission \n"Prison Rp" \ndirected by:\n Aroun The BriCodeur , Dan Anderson \nand\n Mikael Libertis\n for the Arma 3 community</Original>
+            <French>Bienvenue sur la mission \n "Prison Rp" \nréalisé par :\n Aroun Le BriCodeur , Dan Anderson \net\n Mikael Libertis\n pour la communauté Arma 3</French>
         </Key>
         <Key ID="STR_DA3F_PlayerSpawnInfo">
             <Original>Farm: windows left \n\n Player menu: ² (above TAB) \n\n Lower volume: 8 _ \ \n\n Turn up the volume: 9 ç ^\n\nGood Game</Original>

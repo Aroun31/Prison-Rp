@@ -1,8 +1,8 @@
-author = "Aroun Le BriCodeur et Mikael Libertis [BriCodeur Team]";
-Dev = "Aroun Le BriCodeur et Mikael Libertis [BriCodeur Team]"; // (n'est pas visible) inscript en mission.sqm
+author = "Aroun Le BriCodeur , Dan Anderson et Mikael Libertis [BriCodeur Team]";
+Dev = "Aroun Le BriCodeur , Dan Anderson et Mikael Libertis [BriCodeur Team]"; // (n'est pas visible) inscript en mission.sqm
 onLoadName = "Prison RP";
 loadScreen = "";
-onLoadMission = "<t size='.85' align = 'center' color='#D2D601'>Mission</t><br/><t size='1' align = 'center' color='#01A4D6'>Prison RP</t><br/><t size='1' align = 'center' color='#01A4D6'>développé par <br/>Aroun Le BriCodeur && Mikael Libertis [BriCodeur Team]</t>";
+onLoadMission = "<t size='.85' align = 'center' color='#D2D601'>Mission</t><br/><t size='1' align = 'center' color='#01A4D6'>Prison RP</t><br/><t size='1' align = 'center' color='#01A4D6'>développé par <br/>Aroun Le BriCodeur , Dan Anderson && Mikael Libertis [BriCodeur Team]</t>";
 // Tu ne touche pas sauf si tu sais ce que tu fais !
 joinUnassigned = 1;
 respawn = BASE;
